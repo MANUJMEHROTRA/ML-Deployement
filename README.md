@@ -13,4 +13,4 @@ Link: _https://github.com/MANUJMEHROTRA/Machine-Learning-Projects/tree/master/Di
 
 • A glimpse of the web app:
 
- ![GIF](/diabetes-predictor-web-app.gif)
+ ![GIF](/readme_resources/diabetes-predictor-web-app.gif)
